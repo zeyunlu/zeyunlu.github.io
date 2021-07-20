@@ -20,7 +20,7 @@ nav: true
 - **Mathematics Graduate Research Internship**, Dept. of Math of UCSD, La Jolla, CA, 03/2016 - 12/2016
 - **Math Tutor**, MLC of SCC, Shoreline, WA, 09/2011 -  06/2012
 
-### **TA-ship**
+### **TAship**
 - *Analysis of Omics Data for Research Studies*, SHARPP Training, Columbia University, 06/2021
 
 - *PM-522A: Introduction to the Theory of Statistics*, Keck School of Medicine of USC, Fall 2021 (Exp.)
