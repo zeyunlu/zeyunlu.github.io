@@ -1,7 +1,7 @@
 ---
 layout: page
 title: biography
-permalink: /bio/
+permalink: /biography/
 nav: true
 
 # news: true  # includes a list of news items

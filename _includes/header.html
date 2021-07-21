@@ -31,6 +31,42 @@
               {% endif %}
             </a>
           </li>
+          <!-- vitae -->
+          <li class="nav-item {% if page.title == 'vitae' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/vitae' | relative_url }}">
+              vitae
+              {% if page.title == "vitae" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          <!-- research -->
+          <li class="nav-item {% if page.title == 'research' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/research' | relative_url }}">
+              research
+              {% if page.title == "research" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          <!-- publications -->
+          <li class="nav-item {% if page.title == 'publications' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/publications' | relative_url }}">
+              publications
+              {% if page.title == "publications" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          <!-- biography -->
+          <li class="nav-item {% if page.title == 'biography' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/biography' | relative_url }}">
+              biography
+              {% if page.title == "biography" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
@@ -43,7 +79,7 @@
           </li>
           {% endif %}
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          <!-- {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
@@ -55,7 +91,7 @@
               </a>
           </li>
           {% endif %}
-          {% endfor %}
+          {% endfor %} -->
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
