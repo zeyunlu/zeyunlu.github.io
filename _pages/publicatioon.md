@@ -10,16 +10,16 @@ nav: true
 
 {: reversed="reversed"}
 
-1. *Integrative analyses identify susceptibility genes underlying COVID-19 hospitalization*. Pathak GA, Singh K, Miller-Fleming TW, Wendt FR, Ehsan N, Hou K, Johnson R, **Lu Z**, Gopalan S, Yengo L, Mohammadi P, Pasaniuc B, Polimanti R, Davis LK, Mancuso N. ***Nature Communication*** (in press). 2021.
-
+1. *[Integrative analyses identify susceptibility genes underlying COVID-19 hospitalization](https://doi.org/10.1038/s41467-021-24824-z
+){:target="_blank"}*. Pathak GA, Singh K, Miller-Fleming TW, Wendt FR, Ehsan N, Hou K, Johnson R, **Lu Z**, Gopalan S, Yengo L, Mohammadi P, Pasaniuc B, Polimanti R, Davis LK, Mancuso N. ***Nature Communication***. July, 2021.
 
 ### **Posters/Abstracts**
 
 {: reversed="reversed"}
 
-3. *Integrative analyses identify genes and their functional consequences underlying COVID-19 hospitalization*. Singh K, Pathak G, Miller-Fleming T, Wendt F, Ehsan N, Hou K, Johnson R, **Lu Z**, Gopalan S, Yang L, Mohammadi P, Pasaniuc B, Polimanti R, Davis L, Mancuso N. ***Molecular Genetics and Metabolism***. April, 2021.
+3. *[Integrative analyses identify genes and their functional consequences underlying COVID-19 hospitalization](https://doi.org/10.1016/S1096-7192(21)00417-0){:target="_blank"}*. Singh K, Pathak G, Miller-Fleming T, Wendt F, Ehsan N, Hou K, Johnson R, **Lu Z**, Gopalan S, Yang L, Mohammadi P, Pasaniuc B, Polimanti R, Davis L, Mancuso N. ***Molecular Genetics and Metabolism***. April, 2021.
 
-2. *Brain Amyloid Burden, Sleep, and Circadian Rest/Activity Rhythms: Screening Findings from A4 and LEARN*. Rosenberg PB, Zipunnikov V, **Lu Z**, Raman R, Carlsson CM, Mintzer JE, Marshall GA, Porsteinsson AP, Yaari R, Wanigatunga SK, Romano C, Wu MN, Aisen PS, Sperling RA, Spira AP. ***Alzheimer's & Dementia***. November 2018.
+2. *[Brain Amyloid Burden, Sleep, and Circadian Rest/Activity Rhythms: Screening Findings from A4 and LEARN](https://doi.org/10.1016/j.jalz.2018.07.102){:target="_blank"}*. Rosenberg PB, Zipunnikov V, **Lu Z**, Raman R, Carlsson CM, Mintzer JE, Marshall GA, Porsteinsson AP, Yaari R, Wanigatunga SK, Romano C, Wu MN, Aisen PS, Sperling RA, Spira AP. ***Alzheimer's & Dementia***. November 2018.
 
 1. *An Open-source Implementation of Data Standards for Alzheimer’s Disease Clinical Trials*. Sun CK, Donohue M, Ernstrom K, Jiang Y, **Lu Z**, Aisen P, Raman R. ***Clinical Trials on Alzheimer's Disease (CTAD)***. Boston, MA. November 2017.
 
