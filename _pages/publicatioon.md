@@ -10,7 +10,7 @@ nav: true
 
 {: reversed="reversed"}
 
-1. *[Integrative analyses identify susceptibility genes underlying COVID-19 hospitalization](https://doi.org/10.1038/s41467-021-24824-z
+1. *[Integrative genomic analyses identify susceptibility genes underlying COVID-19 hospitalization](https://doi.org/10.1038/s41467-021-24824-z
 ){:target="_blank"}*. Pathak GA, Singh K, Miller-Fleming TW, Wendt FR, Ehsan N, Hou K, Johnson R, **Lu Z**, Gopalan S, Yengo L, Mohammadi P, Pasaniuc B, Polimanti R, Davis LK, Mancuso N. ***Nature Communication***. July, 2021.
 
 ### **Posters/Abstracts**
