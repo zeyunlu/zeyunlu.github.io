@@ -18,17 +18,19 @@ nav: true
 - **Graduate Research Assistant**, Keck of USC, Los Angeles, CA, 08/2020 - Present
 - **Statistician**, ATRI of Keck of USC, San Diego, CA, 04/2017 - 06/2019
 - **Mathematics Graduate Research Internship**, Dept. of Math of UCSD, La Jolla, CA, 03/2016 - 12/2016
-- **Math Tutor**, MLC of SCC, Shoreline, WA, 09/2011 -  06/2012
+- **Math Tutor**, MLC of SCC, Shoreline, WA, 01/2011 -  06/2012
 
 ### **TAship**
 - *Analysis of Omics Data for Research Studies*, SHARPP Training, Columbia University, 06/2021
 
-- *PM-522A: Introduction to the Theory of Statistics*, Keck School of Medicine of USC, Fall 2021 (Exp.)
+- *PM-522A: Introduction to the Theory of Statistics*, Keck School of Medicine of USC, 08/2021 - 12/2021
 
 ### **Awards and Fellowship**
-- Keck School of Medicine/Graduate School Fellowship, 2019/2020
+- Reviewers’ Choice, American Society of Human Genetics 2021, 10/2021
 
 - Outstanding Overall Performance in Biostatistics Screening Exam, 08/2020
+
+- Keck School of Medicine/Graduate School Fellowship, 2019/2020
 
 ### **Skills**
 
