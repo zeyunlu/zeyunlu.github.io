@@ -18,8 +18,8 @@ Hello! My name is Zeyun Lu (鲁泽沄). I'm a PhD student in [Biostatistics](htt
 
 My research interest is to develop statistical methods leveraging summary-based data (e.g. GWAS) and molecular reference panels from multiple ethnic groups to better understand the genetic architecture for complex diseases. I have very good fortune to be advised by [Dr. Nicholas Mancuso](https://www.mancusolab.com/){:target="_blank"}.
 
-You can find my CV [here](./assets/pdf/Lu_Zeyun_CV.pdf){:target="_blank"} (last updated on 09/10/2021).
+You can find my CV [here](./assets/pdf/Lu_Zeyun_CV.pdf){:target="_blank"} (last updated on 10/18/2021).
 
-You can contact me on twitter (upper left corner).
+You can PM me on twitter (upper left corner), or zeyunlu at usc[dot]edu.
 
 ***In whom all the treasures of wisdom and knowledge are hidden. (Col.2:3)***

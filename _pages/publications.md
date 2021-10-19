@@ -19,7 +19,9 @@ nav: true
 
 {: reversed="reversed"}
 
-6. *Residual Proteome-wide Association Study Identifies Genes for Blood-Related Traits*. **Lu Z**, Jung J, Gazal S, Mancuso N. ***American Society of Human Genetics***. October, 2021 (Abstract accepted).
+7. *Residual Proteome-wide Association Study Identifies Genes for Blood-Related Traits*. **Lu Z**, Jung J, Gazal S, Mancuso N. ***American Society of Human Genetics***. October, 2021.
+
+6. *Novel insight into the etiology of ischemic stroke gained by integrating human transcriptome-wide association study with rodent expression data*. Jung J, **Lu Z**, Mancuso N. ***American Society of Human Genetics***. October, 2021.
 
 5. *Multi-ethnic fine-mapping improves precision to identify causal genes in transcriptome-wide association studies*. Gopalan S<sup>\*</sup>,  **Lu Z**<sup>\*</sup>, Jiang L, Conti DV, Gusev A, Pasaniuc P, Mancuso N. ***Probabilistic Modeling In Genomics***. April, 2021.
 
