@@ -1,3 +1,3 @@
-# al-folio
+# My personal website
 
-See here[https://github.com/alshedivat/al-folio] for the template.
+See [here](https://github.com/alshedivat/al-folio) for the template.
