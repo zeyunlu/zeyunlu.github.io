@@ -16,9 +16,9 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! My name is Zeyun Lu (鲁泽沄). I'm a PhD student in [Biostatistics](https://preventivemedicine.usc.edu/divisions/biostatistics/graduate-programs-in-biostatistics-epidemiology/){:target="_blank"} at [Keck School of Medicine, University of Southern California (USC)](https://keck.usc.edu/){:target="_blank"}.
 
-My research interest is to develop statistical methods leveraging summary-based data (e.g. GWAS) and molecular reference panels from multiple ethnic groups to better understand the genetic architecture for complex diseases. I have very good fortune to be advised by [Dr. Nicholas Mancuso](https://www.mancusolab.com/){:target="_blank"}.
+My research interest is to develop statistical methods leveraging summary-based data (e.g. GWAS) and molecular reference panels from multiple ancestry groups to better understand the genetic architecture for complex diseases. I have very good fortune to be advised by [Dr. Nicholas Mancuso](https://www.mancusolab.com/){:target="_blank"}.
 
-You can find my CV [here](./assets/pdf/Lu_Zeyun_CV.pdf){:target="_blank"} (last updated on 10/18/2021).
+You can find my CV [here](./assets/pdf/Lu_Zeyun_CV.pdf){:target="_blank"} (last updated on 02/22/2022).
 
 You can PM me on twitter (upper left corner), or zeyunlu at usc[dot]edu.
 

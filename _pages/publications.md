@@ -10,6 +10,9 @@ nav: true
 
 {: reversed="reversed"}
 
+2. *[Multi-ancestry fine-mapping improves precision to identify causal genes in transcriptome-wide association studies]( https://doi.org/10.1101/2022.02.10.479993){:target="_blank"}*. Lu Z<sup>\*</sup>, Gopalan S<sup>\*</sup>, Yuan D, Conti D, Pasaniuc B, Gusev A, Mancuso N. **In Review**.
+
+
 1. *[Integrative genomic analyses identify susceptibility genes underlying COVID-19 hospitalization](https://doi.org/10.1038/s41467-021-24824-z
 ){:target="_blank"}*. Pathak GA<sup>\*</sup>, Singh K<sup>\*</sup>, Miller-Fleming TW, Wendt FR, Ehsan N, Hou K, Johnson R, **Lu Z**, Gopalan S, Yengo L, Mohammadi P, Pasaniuc B, Polimanti R, Davis LK, Mancuso N. ***Nature Communication***. July, 2021.
 

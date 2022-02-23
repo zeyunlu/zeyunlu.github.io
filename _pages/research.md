@@ -8,7 +8,7 @@ nav: true
 
 ### **One Sentence Summary**
 
-My research interest is to develop statistical methods leveraging summary-based data (e.g. GWAS) and molecular reference panels from multiple ethnic groups to better understand the genetic architecture for complex diseases.
+My research interest is to develop statistical methods leveraging summary-based data (e.g. GWAS) and molecular reference panels from multiple ancestry groups to better understand the genetic architecture for complex diseases.
 
 <!-- ### **Two+ Sentences Summary**
 
@@ -27,13 +27,13 @@ Therefore, my PhD research is going to focus on relieving these two limitations.
 
   TBD
 
-- **ME-FOCUS**
+- **MA-FOCUS**
 
   TBD
 
 ### **Software**
 
-- [**FOCUS**](https://github.com/mancusolab/focus) - a Python software to implement multi-ethnic gene-trait association fine-mapping.
+- [**FOCUS**](https://github.com/mancusolab/focus) - a Python software to implement multi-ancestry gene-trait association fine-mapping.
 
 - **ADNI3**, **LEADS** - R Shiny apps to build interactive tabulation and visualization clinical reports for enrollment, outcome and safety monitoring.
 

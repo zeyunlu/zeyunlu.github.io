@@ -25,6 +25,7 @@ nav: true
 - **Analysis of Omics Data for Research Studies**, SHARPP Training, Columbia University, 06/2021
 
 ### **Awards and Fellowship**
+- **Third Place Winner**, [2021 KSOM Research Video Challenge](https://youtu.be/Nc5SVhz7-aQ), 12/2021
 - **Reviewers’ Choice**, American Society of Human Genetics 2021, 10/2021
 - **Outstanding Overall Performance in Biostatistics Screening Exam**, 08/2020
 - **Keck School of Medicine/Graduate School Fellowship**, 2019/2020
