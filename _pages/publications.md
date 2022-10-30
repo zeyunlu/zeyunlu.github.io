@@ -10,7 +10,7 @@ nav: true
 
 {: reversed="reversed"}
 
-2. *[Multi-ancestry fine-mapping improves precision to identify causal genes in transcriptome-wide association studies]( https://doi.org/10.1101/2022.02.10.479993){:target="_blank"}*. Lu Z<sup>\*</sup>, Gopalan S<sup>\*</sup>, Yuan D, Conti D, Pasaniuc B, Gusev A, Mancuso N. **In Review**.
+2. *[Multi-ancestry fine-mapping improves precision to identify causal genes in transcriptome-wide association studies](https://www.sciencedirect.com/science/article/pii/S0002929722003068){:target="_blank"}*. Lu Z<sup>\*</sup>, Gopalan S<sup>\*</sup>, Yuan D, Conti D, Pasaniuc B, Gusev A, Mancuso N. ***American Journal of Human Genetics***. August, 2022.
 
 
 1. *[Integrative genomic analyses identify susceptibility genes underlying COVID-19 hospitalization](https://doi.org/10.1038/s41467-021-24824-z
@@ -42,9 +42,9 @@ nav: true
 
 {: reversed="reversed"}
 
-6. *Residual Proteome-wide Association Study Identifies Genes for Blood-Related Traits*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Department of Population and Public Health Sciences, Keck School of Medicine of USC. Los Angeles, CA. October, 2021 (Exp.).
+6. *Residual Proteome-wide Association Study Identifies Genes for Blood-Related Traits*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Department of Population and Public Health Sciences, Keck School of Medicine of USC. Los Angeles, CA. October, 2021.
 
-5. *Multi-ethnic fine-mapping in transcriptome-wide association studies*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Department of Population and Public Health Sciences, Keck School of Medicine of USC. Los Angeles, CA. September, 2021 (Exp.).
+5. *Multi-ethnic fine-mapping in transcriptome-wide association studies*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Department of Population and Public Health Sciences, Keck School of Medicine of USC. Los Angeles, CA. September, 2021.
 
 4. *Probabilistic fine-mapping of transcriptome-wide association studies*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Keck of USC. Online Zoom. September 2020.
 

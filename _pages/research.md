@@ -8,32 +8,32 @@ nav: true
 
 ### **One Sentence Summary**
 
-My research interest is to develop statistical methods leveraging summary-based data (e.g. GWAS) and molecular reference panels from multiple ancestry groups to better understand the genetic architecture for complex diseases.
-
-<!-- ### **Two+ Sentences Summary**
-
-On a molecular level, how does genetic information affect phenotypes? Central dogma of molecular biology states that there exists a flow such that DNA makes RNA, RNA makes proteins, proteins function together to support cellular activities (metabolism), and then its products, metabolites, as the final molecular step to affect traits. As scientific technology advances, people are able to measure individuals’ genome, transcriptome, proteome, and metabolome at academically affordable costs. This enables researchers to use statistical methods to explore the association between molecular products and complex traits.
-
-Genome-wide Association Studies (GWAS) regressing traits value on genotypes have identified tons of genetic variants associated with complex traits. However, the biological mechanism of how these variants have an impact on traits remains unknown. The fact that most GWAS hits are located in non-coding regions ground the hypothesis that SNPs influence complex traits through gene expressions (mRNA, proteins etc.). Transcriptome-wide Association Studies (TWAS) that leverages predicted gene expression imputed from external reference panels and GWAS summary statistics have showcased thousands of gene-trait associations whose molecular mechanism is driven by mRNA levels.
-
-However, the full picture of the genetic architecture isn’t clear due to several restrictions. One is that mRNA mediation only explains a small portion of the total variation of complex traits, suggesting that downstream molecular products proteins and metabolites should have independent influences. Another is that genetic architecture may be shared, partially shared, or independent across different ethnic groups, but current GWAS panels are European-ancestry dominated, which hinders biological findings.
-
-Therefore, my PhD research is going to focus on relieving these two limitations. I’m aiming to develop methods that integrate data from genomics, transcriptomics, proteomics, and metabolomics across different populations so that people can have a more complete picture of how genetic information drives complex traits. -->
-
+My research interest is to develop causal inference methods to better understand the genetic architecture of complex diseases.
 
 ### **Projects**
 
-- **rPWAS**
-
-  TBD
-
 - **MA-FOCUS**
+TBD
+<!-- We developed a Bayesian gene fine-mapping method (MA-FOCUS) of complex diseases leveraging GWAS and gene expression data from multiple ancestries.  -->
 
-  TBD
+- **SuShiE**
+<!-- Developed a Bayesian stepwise selection approach (SuShiE) by modelling the covariance structures of SNPs’ effect sizes across multiple ancestires to identify shared causal genetic variants of complex diseases. -->
+TBD
+
+- **rPWAS**
+TBD
+<!-- Developed an integrative approach (rPWAS) leveraging GWAS and protein abundance data to test post-transcriptional/translational regulatory mechanisms of complex diseases. -->
+
+- **Perturb-seq&eQTL**
+TBD
+<!-- Developed a statistical framework to integrate experimental perturb-seq data for trans effects with GWAS and eQTL data for cis effects to identify “core” genes that are the trans targets of disease-relevant genomic variations. -->
+
 
 ### **Software**
 
-- [**FOCUS**](https://github.com/mancusolab/focus) - a Python software to implement multi-ancestry gene-trait association fine-mapping.
+- **[TWAS Simulator](https://github.com/mancusolab/twas_sim){:target="_blank"}** - A Python software to perform Transcriptome-wide Association Studies (TWAS) simulations. Users can choose different prediction methods to fit eQTL models, such as LASSO, ENET, and GBLUP.
+
+- **[MA-FOCUS](https://github.com/mancusolab/ma-focus){:target="_blank"}** - A Python software to implement multi-ancestry gene-trait association fine-mapping.
 
 - **ADNI3**, **LEADS** - R Shiny apps to build interactive tabulation and visualization clinical reports for enrollment, outcome and safety monitoring.
 
