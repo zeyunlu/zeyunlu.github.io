@@ -18,38 +18,23 @@ nav: true
 
 <span style="font-size:10pt;"><sup>\*</sup> Equal Contribution.</span>
 
-### **Posters/Abstracts**
+
+### **Invited Talks**
 
 {: reversed="reversed"}
 
-7. *Residual Proteome-wide Association Study Identifies Genes for Blood-Related Traits*. **Lu Z**, Jung J, Gazal S, Mancuso N. ***American Society of Human Genetics***. October, 2021.
 
-6. *Novel insight into the etiology of ischemic stroke gained by integrating human transcriptome-wide association study with rodent expression data*. Jung J, **Lu Z**, Mancuso N. ***American Society of Human Genetics***. October, 2021.
+1. Division of Epidemiology, Department of Medicine, Vanderbilt University Medical Center. 01/2023
 
-5. *Multi-ethnic fine-mapping improves precision to identify causal genes in transcriptome-wide association studies*. Gopalan S<sup>\*</sup>,  **Lu Z**<sup>\*</sup>, Jiang L, Conti DV, Gusev A, Pasaniuc P, Mancuso N. ***Probabilistic Modeling In Genomics***. April, 2021.
+### **Software**
 
-4. *Integrative analyses identify genes and their functional consequences underlying COVID-19 hospitalization*. Singh K, Pathak G, Miller-Fleming T, Wendt F, Ehsan N, Hou K, Johnson R, **Lu Z**, Gopalan S, Yang L, Mohammadi P, Pasaniuc B, Polimanti R, Davis L, Mancuso N. ***Molecular Genetics and Metabolism***. April, 2021.
+- **[SuShiE](https://github.com/mancusolab/sushie){:target="_blank"}** - A command-line Python software to perform SNP fine-mapping on molecular
+QTL data with high-speed inference by leveraging JAX JIT compilation.
 
-3. *Multi-ethnic fine-mapping improves precision to identify causal genes in transcriptome-wide association studies*. Gopalan S, **Lu Z**, Conti DV, Gusev A, Pasaniuc B, Mancuso, N. ***American Society of Human Genetics***. October, 2020.
+- **[TWAS Simulator](https://github.com/mancusolab/twas_sim){:target="_blank"}** - A Python software to perform TWAS simulations.
 
-2. *Brain Amyloid Burden, Sleep, and Circadian Rest/Activity Rhythms: Screening Findings from A4 and LEARN*. Rosenberg PB, Zipunnikov V, **Lu Z**, Raman R, Carlsson CM, Mintzer JE, Marshall GA, Porsteinsson AP, Yaari R, Wanigatunga SK, Romano C, Wu MN, Aisen PS, Sperling RA, Spira AP. ***Alzheimer's & Dementia***. November 2018.
+- **[MA-FOCUS](https://github.com/mancusolab/ma-focus){:target="_blank"}** - A command-line Python software to implement multi-ancestry gene-trait association fine-mapping.
 
-1. *An Open-source Implementation of Data Standards for Alzheimer’s Disease Clinical Trials*. Sun CK, Donohue M, Ernstrom K, Jiang Y, **Lu Z**, Aisen P, Raman R. ***Clinical Trials on Alzheimer's Disease (CTAD)***. Boston, MA. November 2017.
+- **ADNI3**, **LEADS** - R Shiny apps to build interactive tabulation and visualization clinical reports for enrollment, outcome and safety monitoring.
 
-<span style="font-size:10pt;"><sup>\*</sup> Equal Contribution.</span>
-
-### **Talks**
-
-{: reversed="reversed"}
-
-6. *Residual Proteome-wide Association Study Identifies Genes for Blood-Related Traits*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Department of Population and Public Health Sciences, Keck School of Medicine of USC. Los Angeles, CA. October, 2021.
-
-5. *Multi-ethnic fine-mapping in transcriptome-wide association studies*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Department of Population and Public Health Sciences, Keck School of Medicine of USC. Los Angeles, CA. September, 2021.
-
-4. *Probabilistic fine-mapping of transcriptome-wide association studies*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Keck of USC. Online Zoom. September 2020.
-
-3. *Proteome-Wide Association Study Identifies Independent Protein QTLs for Blood-Related Traits*. **Lu Z**. ***Seminar in Biostatistics and Epidemiology***. Keck of USC. Online Zoom. September 2020.
-
-2. *A4 Actigraphy Study Pre-randomization Analysis*. **Lu Z**. ***ATRI Biostatistics Workshop***. ATRI, San Diego, CA. November 2018.
-
-1. *Dynamic Reporting Web Framework for Clinical Trials Using R Shiny*. Jain S, **Lu Z**. ***ATRI Biostatistics Workshop***. ATRI, San Diego, CA. August 2018.
+- **ADNI3**, **A4**, **LEADS** - R packages to crawl raw clinical data from EDC API, convert to CDISC format, and generate daily statistical reports.
