@@ -18,7 +18,7 @@ Hello! My name is Zeyun Lu (鲁泽沄). I'm a PhD candidate in Biostatistics at 
 
 My research interest is to develop causal inference methods on the genetic architecture of complex diseases. I have the very good fortune to be advised by [Dr. Nicholas Mancuso](https://www.mancusolab.com/){:target="_blank"}. I'm also co-advised by [Dr. Alexander Gusev](http://gusevlab.org/){:target="_blank"} from Dana-Farber Cancer Institute/Harvard Medical School on one of my dissertation research projects.
 
-You can find my CV [here](./assets/pdf/Lu_Zeyun_CV_web.pdf){:target="_blank"} (last updated on 10/29/2022).
+You can find my CV [here](./assets/pdf/Lu_Zeyun_CV_web.pdf){:target="_blank"} (last updated on 4/28/2023).
 
 I'm very happy to talk about my research projects and sciences with you. Please feel free to PM me on Twitter (upper left corner).
 
