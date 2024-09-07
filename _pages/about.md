@@ -14,7 +14,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-Hello! I'm Zeyun Lu (鲁泽沄), a postdoctoral research fellow at Dana-Farber Cancer Institute and Harvard Medical School. I am fortunate to be advised by [Dr. Alexander Gusev](http://gusevlab.org/){:target="_blank"} for my postdoctoral training and to have been mentored by [Dr. Nicholas Mancuso](https://www.mancusolab.com/){:target="_blank"} during my PhD in Biostatistics at Keck School of Medicine, University of Southern California. My CV is [here](./assets/pdf/Lu_Zeyun_CV_web.pdf){:target="_blank"}.
+Hello! I'm Zeyun Lu (鲁泽沄), a research fellow at Dana-Farber Cancer Institute and Harvard Medical School. I am fortunate to be advised by [Dr. Alexander Gusev](http://gusevlab.org/){:target="_blank"} for my postdoctoral training and to have been mentored by [Dr. Nicholas Mancuso](https://www.mancusolab.com/){:target="_blank"} during my PhD in Biostatistics at Keck School of Medicine, University of Southern California. My CV is [here](./assets/pdf/Lu_Zeyun_CV_web.pdf){:target="_blank"}.
 
 My research interests focus on three main areas:
 
