@@ -16,13 +16,11 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! I'm Zeyun Lu (鲁泽沄), a research fellow at Dana-Farber Cancer Institute and Harvard Medical School. I am fortunate to be advised by [Dr. Alexander Gusev](http://gusevlab.org/){:target="_blank"} for my postdoctoral training and to have been mentored by [Dr. Nicholas Mancuso](https://www.mancusolab.com/){:target="_blank"} during my PhD in Biostatistics at Keck School of Medicine, University of Southern California. My CV is [here](./assets/pdf/Lu_Zeyun_CV_web.pdf){:target="_blank"}.
 
-My research interests focus on three main areas:
+My current research interests focus on:
 
   1. **Developing computational causal inference methods** to understand the genetic architecture of complex diseases.
   
-  2. **Leveraging deep learning frameworks** to predict perturbation effects on the transcriptome.
-
-  3. **Combining electronic health record data and AI** to advance medical and clinical research.
+  3. **Integrating electronic health record data and AI** to understand the genetic basis of treatment toxicity in cancer patients.
 
 I’m always excited to discuss my research and scientific topics. Feel free to PM me on X (upper left corner).
 
